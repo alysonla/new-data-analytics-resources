@@ -1,2 +1,5 @@
-# new-data-analytics-resources
-a resource center for my data class &lt;3 
+# Data Resource Hub 
+
+## Articles
+
+[A really good article about google sheets]( ) 
